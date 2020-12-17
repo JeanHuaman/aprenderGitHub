@@ -3,3 +3,8 @@ body{
     font-weight: 300;
     color: rebeccapurple;
 }
+header{
+    color: violet;
+    font-style: italic;
+    border: 1px solid green;
+}
