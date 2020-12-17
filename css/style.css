@@ -13,3 +13,9 @@ header{
     color: red;
     background-color: violet;
 }
+.cabecera
+{
+    background-color: yellow;
+    color: orange;
+    font-weight: 300;
+}
