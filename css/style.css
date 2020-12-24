@@ -19,3 +19,11 @@ header{
     color: blue;
     font-weight: 300;
 }
+.cabecera_img
+{
+    background-color: rgba(102, 51, 153, 0.493);
+}
+.cabecera_img img{
+    width: 450px;
+    height: 450px;
+}
